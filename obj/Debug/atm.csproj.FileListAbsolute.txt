@@ -1,0 +1,10 @@
+c:\users\kanoj\onedrive\documents\visual studio 2012\Projects\atm\atm\bin\Debug\atm.exe.config
+c:\users\kanoj\onedrive\documents\visual studio 2012\Projects\atm\atm\bin\Debug\atm.exe
+c:\users\kanoj\onedrive\documents\visual studio 2012\Projects\atm\atm\bin\Debug\atm.pdb
+c:\users\kanoj\onedrive\documents\visual studio 2012\Projects\atm\atm\obj\Debug\atm.csprojResolveAssemblyReference.cache
+c:\users\kanoj\onedrive\documents\visual studio 2012\Projects\atm\atm\obj\Debug\atm.Form1.resources
+c:\users\kanoj\onedrive\documents\visual studio 2012\Projects\atm\atm\obj\Debug\atm.Form2.resources
+c:\users\kanoj\onedrive\documents\visual studio 2012\Projects\atm\atm\obj\Debug\atm.Properties.Resources.resources
+c:\users\kanoj\onedrive\documents\visual studio 2012\Projects\atm\atm\obj\Debug\atm.csproj.GenerateResource.Cache
+c:\users\kanoj\onedrive\documents\visual studio 2012\Projects\atm\atm\obj\Debug\atm.exe
+c:\users\kanoj\onedrive\documents\visual studio 2012\Projects\atm\atm\obj\Debug\atm.pdb
